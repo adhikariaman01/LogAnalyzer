@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LogAnalyzer">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogAnalyzer</output-path>
+    <root id="archive" name="LogAnalyzer.war" />
+  </artifact>
+</component>
